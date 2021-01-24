@@ -1,5 +1,1 @@
-./node_modules
-./*/node_modules
-./Product/node_modules
-./ProductDisplay/node_modules
-./ProductPrice/node_modules
+/**/node_modules/**
